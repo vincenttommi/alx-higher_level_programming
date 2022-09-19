@@ -1,4 +1,4 @@
 #!/usr/bin/bash
-str = "holberlton school"
+str = "Holberlton School"
 print(3 * str)
 print(str[:9])
