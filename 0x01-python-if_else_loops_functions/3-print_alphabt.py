@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Author: vincent tommi korir
 
-for letter in range(87, 123):
+for letter in range(97, 123):
     if chr(letter) != 'q' and chr(letter) != 'e':
         print("{}".format(chr(letter)), end="")
